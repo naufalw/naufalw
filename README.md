@@ -1,5 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Pomodo](https://play.google.com/store/apps/details?id=com.nopalgemink.school_app)**
