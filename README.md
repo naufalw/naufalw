@@ -34,13 +34,3 @@
   <br>
     <a href="https://github.com/naufalw/github-readme-stats"><img alt="Naufal Wiwit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naufalw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/naufalw/github-readme-stats"><img alt="Naufal Wiwit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/naufal-wiwit-putra-731650164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/NaufalWiwitP_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/naufalwiwitp/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/naufalwiwitgaming1"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
