@@ -1,8 +1,8 @@
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Pomodo](https://play.google.com/store/apps/details?id=com.nopalgemink.school_app)**
+- 🔭 I’m currently working on **[Pomodo](https://play.google.com/store/apps/details?id=com.ngalamsoftware.pomodo)**
 
-- 🌱 I’m currently learning **Android App and Web Development.**
+- 🌱 I’m currently learning **Jetpack Compose and Web Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
