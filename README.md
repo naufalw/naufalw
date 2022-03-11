@@ -8,4 +8,4 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/naufalw)**
 
-- 📫 How to reach me **naufalwiwitputra@gmail.com**
+- 📫 How to reach me **naufal@naufalw.xyz**
